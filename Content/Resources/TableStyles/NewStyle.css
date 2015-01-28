@@ -1,0 +1,1359 @@
+/* MadCap Table Style: */
+
+/*<meta Version="7" />*/
+
+@media xxx
+{
+	mcTableStyle
+	{
+		
+	}
+
+	mcTableColumnStyle
+	{
+		background-color: #c0c0c0;
+		background-image: none;
+	}
+
+	mcTableColumnStyle
+	{
+		
+	}
+
+	mcTableHeadStyle
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	mcTableBodyStyle
+	{
+		
+	}
+
+	mcTableFootStyle
+	{
+		
+	}
+}
+
+mcTableStyle
+{
+	name: NewStyle;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	background-color: #800000;
+	background-image: url('../Images/splash.gif');
+	background-position-x: left;
+	background-position-y: top;
+	background-repeat: repeat;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 4px;
+	separator-color: #ff0000;
+	font-family: 'Bodoni MT Poster Compressed';
+	header: True;
+	background-color: #696969;
+	background-image: none;
+	text-align: center;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	name: yyy;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: dashed;
+	separator-width: 6px;
+	separator-color: #008000;
+	font-size: 12px;
+	color: #00ffff;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	font-weight: normal;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+}
+
+mcTableFootStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 3px;
+	separator-color: #ffff00;
+	background-color: #e0ffff;
+	background-image: none;
+	font-size: 9px;
+	font-family: Algerian;
+	color: #ff0000;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+/* Cell Styles: */
+ 
+@media xxx
+{
+	.TableStyle-NewStyle
+	{
+		border-spacing: 0px 0px;
+	}
+
+	.TableStyle-NewStyle .HeadI-Column1-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadE-Column1-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadF-Column1-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadH-Column1-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadD-Column1-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadC-Column1-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadB-Column1-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadA-Column1-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadG-Column1-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadI-yyy-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadE-yyy-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadF-yyy-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadH-yyy-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadD-yyy-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadC-yyy-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadB-yyy-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadA-yyy-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .HeadG-yyy-Header1
+	{
+		background-color: #800000;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .BodyI-Column1-Body1
+	{
+		background-color: #c0c0c0;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .BodyE-Column1-Body1
+	{
+		background-color: #c0c0c0;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .BodyF-Column1-Body1
+	{
+		background-color: #c0c0c0;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .BodyH-Column1-Body1
+	{
+		background-color: #c0c0c0;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .BodyD-Column1-Body1
+	{
+		background-color: #c0c0c0;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .BodyC-Column1-Body1
+	{
+		background-color: #c0c0c0;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .BodyB-Column1-Body1
+	{
+		background-color: #c0c0c0;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .BodyA-Column1-Body1
+	{
+		background-color: #c0c0c0;
+		background-image: none;
+	}
+
+	.TableStyle-NewStyle .BodyG-Column1-Body1
+	{
+		background-color: #c0c0c0;
+		background-image: none;
+	}
+}
+
+.TableStyle-NewStyle
+{
+	border-collapse: collapse;
+	background-color: #800000;
+	background-image: url('../Images/splash.gif');
+	background-repeat: repeat;
+	background-position-x: left;
+	background-position-y: top;
+	border-left-style: solid;
+	border-left-color: #000000;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000000;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-bottom-width: 1px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-NewStyle .Column-Column1
+{
+	
+}
+
+.TableStyle-NewStyle .Column-yyy
+{
+	
+}
+
+.TableStyle-NewStyle .Head-Header1
+{
+	
+}
+
+.TableStyle-NewStyle .HeadI-Column1-Header1
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadI-Column1-Header1 p
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadE-Column1-Header1
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	border-right-width: 4px;
+	border-right-color: #ff0000;
+	border-right-style: solid;
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+	border-bottom-width: 6px;
+	border-bottom-color: #008000;
+	border-bottom-style: dashed;
+}
+
+.TableStyle-NewStyle .HeadE-Column1-Header1 p
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadF-Column1-Header1
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+	border-bottom-width: 6px;
+	border-bottom-color: #008000;
+	border-bottom-style: dashed;
+}
+
+.TableStyle-NewStyle .HeadF-Column1-Header1 p
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadH-Column1-Header1
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	border-right-width: 4px;
+	border-right-color: #ff0000;
+	border-right-style: solid;
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadH-Column1-Header1 p
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadD-Column1-Header1
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+	border-bottom-width: 6px;
+	border-bottom-color: #008000;
+	border-bottom-style: dashed;
+}
+
+.TableStyle-NewStyle .HeadD-Column1-Header1 p
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadC-Column1-Header1
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadC-Column1-Header1 p
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadB-Column1-Header1
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	border-right-width: 4px;
+	border-right-color: #ff0000;
+	border-right-style: solid;
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadB-Column1-Header1 p
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadA-Column1-Header1
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadA-Column1-Header1 p
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadG-Column1-Header1
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadG-Column1-Header1 p
+{
+	font-family: 'Bodoni MT Poster Compressed';
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadI-yyy-Header1
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadI-yyy-Header1 p
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadE-yyy-Header1
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+	border-bottom-width: 6px;
+	border-bottom-color: #008000;
+	border-bottom-style: dashed;
+}
+
+.TableStyle-NewStyle .HeadE-yyy-Header1 p
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadF-yyy-Header1
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+	border-bottom-width: 6px;
+	border-bottom-color: #008000;
+	border-bottom-style: dashed;
+}
+
+.TableStyle-NewStyle .HeadF-yyy-Header1 p
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadH-yyy-Header1
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadH-yyy-Header1 p
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadD-yyy-Header1
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+	border-bottom-width: 6px;
+	border-bottom-color: #008000;
+	border-bottom-style: dashed;
+}
+
+.TableStyle-NewStyle .HeadD-yyy-Header1 p
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadC-yyy-Header1
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadC-yyy-Header1 p
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadB-yyy-Header1
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadB-yyy-Header1 p
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadA-yyy-Header1
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadA-yyy-Header1 p
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .HeadG-yyy-Header1
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #800000;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .HeadG-yyy-Header1 p
+{
+	color: #00ffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.TableStyle-NewStyle .Foot-Footer1
+{
+	
+}
+
+.TableStyle-NewStyle .FootI-Column1-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootI-Column1-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootE-Column1-Footer1
+{
+	border-right-width: 4px;
+	border-right-color: #ff0000;
+	border-right-style: solid;
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+	border-top-width: 3px;
+	border-top-color: #ffff00;
+	border-top-style: solid;
+}
+
+.TableStyle-NewStyle .FootE-Column1-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootF-Column1-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+	border-top-width: 3px;
+	border-top-color: #ffff00;
+	border-top-style: solid;
+}
+
+.TableStyle-NewStyle .FootF-Column1-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootH-Column1-Footer1
+{
+	border-right-width: 4px;
+	border-right-color: #ff0000;
+	border-right-style: solid;
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootH-Column1-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootD-Column1-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+	border-top-width: 3px;
+	border-top-color: #ffff00;
+	border-top-style: solid;
+}
+
+.TableStyle-NewStyle .FootD-Column1-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootC-Column1-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootC-Column1-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootB-Column1-Footer1
+{
+	border-right-width: 4px;
+	border-right-color: #ff0000;
+	border-right-style: solid;
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootB-Column1-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootA-Column1-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootA-Column1-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootG-Column1-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootG-Column1-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootI-yyy-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootI-yyy-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootE-yyy-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+	border-top-width: 3px;
+	border-top-color: #ffff00;
+	border-top-style: solid;
+}
+
+.TableStyle-NewStyle .FootE-yyy-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootF-yyy-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+	border-top-width: 3px;
+	border-top-color: #ffff00;
+	border-top-style: solid;
+}
+
+.TableStyle-NewStyle .FootF-yyy-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootH-yyy-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootH-yyy-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootD-yyy-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+	border-top-width: 3px;
+	border-top-color: #ffff00;
+	border-top-style: solid;
+}
+
+.TableStyle-NewStyle .FootD-yyy-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootC-yyy-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootC-yyy-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootB-yyy-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootB-yyy-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootA-yyy-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootA-yyy-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .FootG-yyy-Footer1
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #e0ffff;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .FootG-yyy-Footer1 p
+{
+	color: #ff0000;
+	font-family: Algerian;
+	font-size: 9px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.TableStyle-NewStyle .Body-Body1
+{
+	
+}
+
+.TableStyle-NewStyle .BodyI-Column1-Body1
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	background-color: #696969;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .BodyI-Column1-Body1 p
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+}
+
+.TableStyle-NewStyle .BodyE-Column1-Body1
+{
+	font-weight: normal;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	background-color: #696969;
+	background-image: none;
+	border-right-width: 4px;
+	border-right-color: #ff0000;
+	border-right-style: solid;
+}
+
+.TableStyle-NewStyle .BodyE-Column1-Body1 p
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+}
+
+.TableStyle-NewStyle .BodyF-Column1-Body1
+{
+	font-weight: normal;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	background-color: #696969;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .BodyF-Column1-Body1 p
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+}
+
+.TableStyle-NewStyle .BodyH-Column1-Body1
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	background-color: #696969;
+	background-image: none;
+	border-right-width: 4px;
+	border-right-color: #ff0000;
+	border-right-style: solid;
+}
+
+.TableStyle-NewStyle .BodyH-Column1-Body1 p
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+}
+
+.TableStyle-NewStyle .BodyD-Column1-Body1
+{
+	font-weight: normal;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	background-color: #696969;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .BodyD-Column1-Body1 p
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+}
+
+.TableStyle-NewStyle .BodyC-Column1-Body1
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	background-color: #696969;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .BodyC-Column1-Body1 p
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+}
+
+.TableStyle-NewStyle .BodyB-Column1-Body1
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	background-color: #696969;
+	background-image: none;
+	border-right-width: 4px;
+	border-right-color: #ff0000;
+	border-right-style: solid;
+}
+
+.TableStyle-NewStyle .BodyB-Column1-Body1 p
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+}
+
+.TableStyle-NewStyle .BodyA-Column1-Body1
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	background-color: #696969;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .BodyA-Column1-Body1 p
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+}
+
+.TableStyle-NewStyle .BodyG-Column1-Body1
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+	text-align: center;
+	background-color: #696969;
+	background-image: none;
+}
+
+.TableStyle-NewStyle .BodyG-Column1-Body1 p
+{
+	font-weight: normal;
+	font-family: 'Bodoni MT Poster Compressed';
+}
+
+.TableStyle-NewStyle .BodyI-yyy-Body1
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyI-yyy-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyE-yyy-Body1
+{
+	font-weight: normal;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-NewStyle .BodyE-yyy-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyF-yyy-Body1
+{
+	font-weight: normal;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-NewStyle .BodyF-yyy-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyH-yyy-Body1
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyH-yyy-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyD-yyy-Body1
+{
+	font-weight: normal;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-NewStyle .BodyD-yyy-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyC-yyy-Body1
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyC-yyy-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyB-yyy-Body1
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyB-yyy-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyA-yyy-Body1
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyA-yyy-Body1 p
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyG-yyy-Body1
+{
+	font-weight: normal;
+}
+
+.TableStyle-NewStyle .BodyG-yyy-Body1 p
+{
+	font-weight: normal;
+}
+
+

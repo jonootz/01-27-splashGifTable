@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  sourceDocument="C:\Users\fnovak.MADCAP\Desktop\test2.fm">
+  <TocEntry
+    Title="NewTopic"
+    Link="/Content/NewTopic.htm" />
+  <TocEntry
+    Title="test2"
+    Link="/Content/test2/test2.htm" />
+</CatapultToc>
